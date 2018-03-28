@@ -37,7 +37,7 @@ if ( isset( $_POST['site-address'] ) ) {
 	<title>Document</title>
 </head>
 <body>
-<form action="" method="post">
+<form method="post">
 	<label for="site-address">Введите адрес сайта, с которого хотите получить картинки</label>
 	<input id="site-address" name="site-address" type="text">
 	<input type="submit" value="ОК">
